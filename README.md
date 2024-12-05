@@ -1,3 +1,4 @@
 # ItProgerHelperApp
-It Proger Helper Android Application
+It's a Proger Helper Android Application
 It is created to learn Android development
+
